@@ -1,0 +1,13 @@
+.navbar{
+    background-color: black;
+    color: rgb(245, 224, 224);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.authentication_box{
+    display: flex;
+    flex: 0.1;
+    align-items: center;
+    justify-content: space-between;
+}
